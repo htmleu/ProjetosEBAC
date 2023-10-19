@@ -50,3 +50,5 @@ Date:   Tue Oct 17 19:12:28 2023 -0300
 C:\Users\leona\ProjetosEBAC>git push origin
 
 quinto commit. arquivo alterado na web.
+
+sétimo commit.
