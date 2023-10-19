@@ -51,8 +51,6 @@ C:\Users\leona\ProjetosEBAC>git push origin
 
 quinto commit. arquivo alterado na web.
 
-<<<<<<< HEAD
 sexto commit.
-=======
+
 sétimo commit.
->>>>>>> d4334e31bf25bff1c06fc54d4b57582d1925ab4d
