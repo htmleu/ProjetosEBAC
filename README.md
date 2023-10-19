@@ -21,24 +21,11 @@ Date:   Tue Oct 17 19:12:28 2023 -0300
 
     Initial commit
 
-C:\Users\leona\ProjetosEBAC>git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-        modified:   README.md
-
 
 C:\Users\leona\ProjetosEBAC>git commit -m"Arquivo alterado para deixar como exemplo"
 [main d0d5bc8] Arquivo alterado para deixar como exemplo
  1 file changed, 2 insertions(+)
-
-C:\Users\leona\ProjetosEBAC>git status]
-git: 'status]' is not a git command. See 'git --help'.
-
-The most similar command is
-        status
+ 
 
 C:\Users\leona\ProjetosEBAC>git status
 On branch main
